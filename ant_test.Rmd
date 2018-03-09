@@ -44,3 +44,12 @@ screeplot(ant_pca, type = "lines") # Shows the same information
 biplot(ant_pca, cex = 0.5)
 ```
 
+
+```{r}
+
+
+# I am not allison horst. I am jasmine      
+
+sum(2,3,5)
+```
+
